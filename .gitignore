@@ -1,6 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
-
+/GameChallange/Saved/
+/GameChallange/Logs/
+/GameChallange/Intermediate/
 # Compiled Object files
 *.slo
 *.lo
